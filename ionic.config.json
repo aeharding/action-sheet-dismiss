@@ -1,0 +1,7 @@
+{
+  "name": "action-sheet-dismiss",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
